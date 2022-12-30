@@ -11,6 +11,10 @@
     transition: var(--transition);
 }
 
+#experience{
+    padding-left: 100px;
+    padding-right: 100px;
+}
 .experience_container > div:hover {
     background: transparent;
     border-color: var(--color-primary-variant);
