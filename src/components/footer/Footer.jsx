@@ -6,7 +6,7 @@ import {FiInstagram} from 'react-icons/fi'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>Houssem ZEMNI</a>
+      <a href="#header" className='footer_logo'>Houssem ZEMNI</a>
 
       <ul className='permalinks'>
         <li><a href="#header">Home</a></li>
@@ -19,9 +19,9 @@ const Footer = () => {
       </ul>
 
       <div className='footer_socials'>
-          <a href="https://www.facebook.com/houssem.zemni/"><FaFacebookF /></a>
-          <a href="https://www.instagram.com/houssem_zemni/"><FiInstagram /></a>
-          <a href="https://www.linkedin.com/in/houssem-zemni/"><FaLinkedin /></a>
+          <a href="https://www.facebook.com/houssem.zemni/" target="_blank" rel="noreferrer"><FaFacebookF /></a>
+          <a href="https://www.instagram.com/houssem_zemni/" target="_blank" rel="noreferrer"><FiInstagram /></a>
+          <a href="https://www.linkedin.com/in/houssem-zemni/" target="_blank" rel="noreferrer"><FaLinkedin /></a>
       </div>
 
       <div className='footer_copyright'>
