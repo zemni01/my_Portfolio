@@ -23,23 +23,22 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             <article className='about_card'>
               <FiUsers className='about_icon' />
               <h5>Clients</h5>
-              <small>5+ Clients Worldwide</small>
+              <small>2 Clients Worldwide</small>
             </article>
             <article className='about_card'>
               <VscFolderLibrary className='about_icon' />
               <h5>Projects</h5>
-              <small>10+ Completed Projects</small>
+              <small>5+ Completed Projects</small>
             </article>
           </div>
           <p>
-            Software development engineer freshly graduated from the national engineering school of Monastir,
-            in the field of electrical and software engineering. Details-oriented with a get-it-done, on-time,
-            and high-quality product thinking.
+            DevOps engineer graduated from the national engineering school of Monastir, with 2 years of experience in
+            software development & DevOps. Details-oriented with a get-it-done, on-time, and high-quality product thinking.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
