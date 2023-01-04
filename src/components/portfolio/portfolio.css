@@ -51,4 +51,8 @@
     grid-template-columns: 1fr;
     gap: 1rem;
    }
+   #portfolio {
+    padding-left: 0;
+    padding-right: 0;
+}
 }
